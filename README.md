@@ -1,0 +1,2 @@
+# pokedex-React
+Trybe exercise
